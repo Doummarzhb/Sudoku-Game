@@ -9,6 +9,7 @@ Optical Character Recognition (OCR): Utilizes the Tesseract.js library to analyz
  npm install -D tailwindcss postcss autoprefixer || tailwind css | 
  npx tailwindcss init -p | 
  npm install tesseract.js || OCR (Optical Character Recognition)
+ npm install react-helmet-async || use react helmet for title page 
 
  
 
